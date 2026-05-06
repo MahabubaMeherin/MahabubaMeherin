@@ -18,4 +18,4 @@
 
 ## 📌 Featured Projects
 
-🔹 Customer Churn Analysis Dashboard
+🔹 Telco-Customer-Churn-Analysis-Dashboard
