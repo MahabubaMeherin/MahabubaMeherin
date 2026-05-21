@@ -19,3 +19,4 @@
 ## 📌 Featured Projects
 
 🔹 Telco-Customer-Churn-Analysis-Dashboard
+🔹 Lung-Cancer-Detection-from-Chest-CT-Scans
